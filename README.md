@@ -110,10 +110,9 @@ I'm currently learning Java, DSA, and AI/ML, so this section will continue to gr
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shreyanshjharia-wq&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshjharia-wq&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=shreyanshjharia-wq&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshjharia-wq&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
-
 ---
 
 # 🔥 GitHub Streak
@@ -127,9 +126,8 @@ I'm currently learning Java, DSA, and AI/ML, so this section will continue to gr
 # 🐍 Contribution Activity
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/shreyanshjharia-wq/shreyanshjharia-wq/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
+  <img src="https://raw.githubusercontent.com/shreyanshjharia-wq/shreyanshjharia-wq/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
 </p>
-
 ---
 
 # 🌐 Connect With Me
