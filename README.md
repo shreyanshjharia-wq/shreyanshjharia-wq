@@ -6,6 +6,8 @@ I'm a **B.Tech Computer Science & Engineering (AI/ML)** student currently explor
 
 I enjoy learning by building things, solving programming problems, and improving my skills one step at a time.
 
+Connect With Me - 📧 **Email:** `shreyanshjharia@gmail.com`
+
 > 🚀 **Learning → Building → Improving**
 
 ---
@@ -22,6 +24,13 @@ I enjoy learning by building things, solving programming problems, and improving
 * 🏆 Participated in **Smart India Hackathon**
 * 🔨 Building projects while learning
 * 🌱 Always trying to learn something new
+
+---
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=shreyanshjharia-wq&theme=tokyonight&hide_border=true"/>
+</p>
 
 ---
 
@@ -84,8 +93,6 @@ AI / ML
 
 **Sovereign AI Workbench** is a secure, modular, on-premise AI platform that enables organizations to run **LLMs, RAG, AI Agents, OCR, and multimodal AI locally**, without sending sensitive data to external cloud AI services.
 
-The project focuses on secure AI workflows for environments where confidential documents and sensitive information need to remain within the organization's infrastructure.
-
 ### Key Features
 
 * 🤖 Local LLMs
@@ -104,22 +111,6 @@ https://sovereign-ai-workbench-2026.vercel.app/login
 ## 🔨 More Projects Coming Soon...
 
 I'm currently learning Java, DSA, and AI/ML, so this section will continue to grow as I build more projects.
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shreyanshjharia-wq&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreyanshjharia-wq&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=shreyanshjharia-wq&theme=tokyonight&hide_border=true"/>
-</p>
 
 ---
 
