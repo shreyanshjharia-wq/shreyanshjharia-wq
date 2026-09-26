@@ -6,8 +6,6 @@ I'm a **B.Tech Computer Science & Engineering (AI/ML)** student currently explor
 
 I enjoy learning by building things, solving programming problems, and improving my skills one step at a time.
 
-Connect With Me - 📧 **Email:** `shreyanshjharia@gmail.com`
-
 > 🚀 **Learning → Building → Improving**
 
 ---
@@ -26,6 +24,7 @@ Connect With Me - 📧 **Email:** `shreyanshjharia@gmail.com`
 * 🌱 Always trying to learn something new
 
 ---
+
 # 🔥 GitHub Streak
 
 <p align="center">
@@ -113,6 +112,7 @@ https://sovereign-ai-workbench-2026.vercel.app/login
 I'm currently learning Java, DSA, and AI/ML, so this section will continue to grow as I build more projects.
 
 ---
+
 # 🌐 Connect With Me
 
 <p align="left">
@@ -123,6 +123,10 @@ I'm currently learning Java, DSA, and AI/ML, so this section will continue to gr
 
 <a href="https://www.instagram.com/shreyx_007?stkn=M256ZmR4bDI3dmZk">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Shreyan6872394">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 
 </p>
