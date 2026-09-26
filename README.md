@@ -113,14 +113,6 @@ https://sovereign-ai-workbench-2026.vercel.app/login
 I'm currently learning Java, DSA, and AI/ML, so this section will continue to grow as I build more projects.
 
 ---
-
-# 🐍 Contribution Activity
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shreyanshjharia-wq/shreyanshjharia-wq/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation"/>
-</p>
----
-
 # 🌐 Connect With Me
 
 <p align="left">
