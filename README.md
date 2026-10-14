@@ -92,16 +92,6 @@ AI / ML
 
 **Sovereign AI Workbench** is a secure, modular, on-premise AI platform that enables organizations to run **LLMs, RAG, AI Agents, OCR, and multimodal AI locally**, without sending sensitive data to external cloud AI services.
 
-### Key Features
-
-* 🤖 Local LLMs
-* 📚 Retrieval-Augmented Generation (RAG)
-* 🧠 AI Agents
-* 📄 OCR
-* 👁️ Multimodal AI
-* 🔐 Secure on-premise AI workflows
-* 🏢 Designed for confidential industrial and organizational environments
-
 🌐 **Live Project:**
 https://sovereign-ai-workbench-2026.vercel.app/login
 
