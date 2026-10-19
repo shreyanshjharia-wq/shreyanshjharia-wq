@@ -81,7 +81,7 @@ AI / ML
  ├── Python
  ├── Machine Learning Fundamentals
  ├── AI Concepts
- └── AI/ML Project
+ └── AI/ML Projects
 ```
 
 ---
