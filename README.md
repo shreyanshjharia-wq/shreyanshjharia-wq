@@ -35,7 +35,7 @@ I enjoy learning by building things, solving programming problems, and improving
 
 # 🛠️ Tech Stack
 
-### 💻 Programming Languages
+##💻 Programming Languages
 
 * ☕ Java
 * 🐍 Python
